@@ -39,4 +39,14 @@ Problem Statement :
 
 ![image](https://user-images.githubusercontent.com/113827619/196053440-e8a4ece0-c88f-49ae-a9c6-8e39fdb8f186.png)
 
+![image](https://user-images.githubusercontent.com/113827619/196055547-8578c967-50c5-4fb5-a84a-542eb0feeeec.png)
 
+
+# HOW TO EXECUTE:
+-Download the maven project from git
+-open project in IDE
+-run the springbootapplication annotated class
+-use the url mappings from the controller in a 
+ client to check different functionalities.
+ 
+ Thank You
